@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSqlDatabaseToNet", "AzureSqlDatabaseToNet.csproj", "{B1B8699C-98BB-46D4-8216-CBA45BBF644C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B8699C-98BB-46D4-8216-CBA45BBF644C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B8699C-98BB-46D4-8216-CBA45BBF644C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B8699C-98BB-46D4-8216-CBA45BBF644C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B8699C-98BB-46D4-8216-CBA45BBF644C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF9495E-6053-40C9-A3D9-AE6D284BF5A8}
+	EndGlobalSection
+EndGlobal
